@@ -5,6 +5,12 @@ import App from "../App";
     {
       path: "/",
       element: <App/>,
+      children: [
+        {
+           path:"/",
+           element: <div>Home page</div>
+        },
+      ]
     },
   ]);
 
