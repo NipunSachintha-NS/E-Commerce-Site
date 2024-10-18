@@ -7,7 +7,7 @@ function Banner() {
   return (
     <div className='section__container header__container'>
         <div className='header__content z-30'>
-            <h4 className='uppercase'>UP TO 205 Discount on</h4>
+            <h4 className='uppercase'>UP TO 20% Discount on</h4>
             <h1>Girl's Fashion</h1>
             <p> Disover he lates trends and express your unique style our women's Fashion
                 website. Explore curated collection of clothings, accessories, and footwear that 
